@@ -1,15 +1,9 @@
-# Parcial2
+# Trabajo LL (1)
 
-* Punto 1
+*Manuel Cardenas
 
+*Andres Toledo
 
-* Punto 2
+*Bryan Ariza
 
-
-* Punto 3
-
-
-* Punto 4
-
-
-* Punto 5
+*Juan Wilches
