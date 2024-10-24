@@ -45,7 +45,7 @@ En este trabajo se busco calcular los conjuntos de primeros, los conjutos de sig
 
           Python3 Primeros.py  (Ejecutar el codigo que calcula el conjunto de primeros)
           Python3 Siguientes.py (Ejecutar el codigo que calcula el conjunto de Siguientes)
-          Phyton3 Prediccion.py (Ejecutar el codigo que calcula el conjunto de prediccion)
+          Pyton3 Prediccion.py (Ejecutar el codigo que calcula el conjunto de prediccion)
 
   3) la gramatica que esta guardada en el txt es la siguientes:
 
